@@ -1,3 +1,3 @@
-include ':calendar'
+include ':sdk'
 include ':app'
-rootProject.name = "calendar"
+rootProject.name = "android-module-view-calendar"
